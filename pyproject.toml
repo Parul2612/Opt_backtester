@@ -14,9 +14,5 @@ dependencies = [
     "fastapi>=0.100.0",
     "uvicorn[standard]>=0.22.0",
     "streamlit>=1.26.0",
-    "quant-data-lib",
     "plotly>=6.4.0",
 ]
-
-[tool.uv.sources]
-quant-data-lib = { url = "http://192.168.50.40:8000/quant_data_lib-0.2.0-py3-none-any.whl" }
