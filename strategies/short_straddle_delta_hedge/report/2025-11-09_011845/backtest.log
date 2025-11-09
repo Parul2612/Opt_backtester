@@ -1,0 +1,745 @@
+2025-11-09 01:18:45,530 INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-09_011845
+2025-11-09 01:18:45,530 INFO:backtest.engine:Processing date: 2025-01-01
+2025-11-09 01:18:50,042 INFO:backtest.engine:Processing date: 2025-01-02
+2025-11-09 01:18:50,864 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 186.7042010383555
+2025-11-09 01:18:50,864 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:18:50,864 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : -150
+2025-11-09 01:18:51,453 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 52.01107846928505
+2025-11-09 01:18:51,460 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:18:51,460 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 75
+2025-11-09 01:18:51,770 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 134.2541211670578
+2025-11-09 01:18:51,770 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:18:51,770 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -75
+2025-11-09 01:18:52,083 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 148.4033543318792
+2025-11-09 01:18:52,083 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:18:52,083 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 0
+2025-11-09 01:18:52,369 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 158.74451283019755
+2025-11-09 01:18:52,369 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:18:52,369 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 0
+2025-11-09 01:18:52,677 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 260.57237777474467
+2025-11-09 01:18:52,677 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:18:52,677 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -75
+2025-11-09 01:18:52,987 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 200.60434549405045
+2025-11-09 01:18:52,987 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:18:52,987 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 0
+2025-11-09 01:18:53,305 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 247.5176132148752
+2025-11-09 01:18:53,305 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:18:53,305 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 0
+2025-11-09 01:18:53,618 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 239.84590895674137
+2025-11-09 01:18:53,618 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:18:53,618 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 0
+2025-11-09 01:18:53,917 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 195.46220993731248
+2025-11-09 01:18:53,917 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:18:53,917 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 0
+2025-11-09 01:18:54,236 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 217.73007472628439
+2025-11-09 01:18:54,236 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:18:54,236 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 0
+2025-11-09 01:18:54,550 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 278.6111065077975
+2025-11-09 01:18:54,550 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+2025-11-09 01:18:54,550 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : -75
+2025-11-09 01:18:54,870 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 268.5833662852216
+2025-11-09 01:18:54,870 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+2025-11-09 01:18:54,870 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : 0
+2025-11-09 01:18:55,415 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 311.7660748257207
+2025-11-09 01:18:55,420 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+2025-11-09 01:18:55,426 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : 0
+2025-11-09 01:18:55,831 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 377.54029420552035
+2025-11-09 01:18:55,831 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+2025-11-09 01:18:55,831 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : -75
+2025-11-09 01:18:56,151 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 333.69642391845457
+2025-11-09 01:18:56,163 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+2025-11-09 01:18:56,163 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -375 and futures_quantity_diff : 75
+2025-11-09 01:18:58,810 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 430.60791064242494
+2025-11-09 01:18:58,810 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -450 and  required_futures_lots : -6
+2025-11-09 01:18:58,810 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : -150
+2025-11-09 01:18:59,122 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 268.29229769309416
+2025-11-09 01:18:59,122 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+2025-11-09 01:18:59,122 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -450 and futures_quantity_diff : 150
+2025-11-09 01:18:59,417 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 394.7525831027501
+2025-11-09 01:18:59,417 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+2025-11-09 01:18:59,417 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : -75
+2025-11-09 01:18:59,721 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 349.91245581442035
+2025-11-09 01:18:59,721 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+2025-11-09 01:18:59,721 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -375 and futures_quantity_diff : 0
+2025-11-09 01:19:03,060 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 366.47890368094
+2025-11-09 01:19:03,060 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+2025-11-09 01:19:03,060 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -375 and futures_quantity_diff : 0
+2025-11-09 01:19:03,422 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 353.30891558483427
+2025-11-09 01:19:03,423 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+2025-11-09 01:19:03,423 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -375 and futures_quantity_diff : 0
+2025-11-09 01:19:03,756 INFO:backtest.engine:Processing date: 2025-01-03
+2025-11-09 01:19:06,055 INFO:backtest.engine:Processing date: 2025-01-06
+2025-11-09 01:19:08,798 INFO:backtest.engine:Processing date: 2025-01-07
+2025-11-09 01:19:12,042 INFO:backtest.engine:Processing date: 2025-01-08
+2025-11-09 01:19:15,301 INFO:backtest.engine:Processing date: 2025-01-09
+2025-11-09 01:19:16,344 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 95.20031810352083
+2025-11-09 01:19:16,344 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:19:16,344 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : -75
+2025-11-09 01:19:16,668 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 209.34855534330632
+2025-11-09 01:19:16,668 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:19:16,668 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -150
+2025-11-09 01:19:17,000 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 127.05960313073058
+2025-11-09 01:19:17,000 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:19:17,000 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 75
+2025-11-09 01:19:17,294 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 158.67338563583513
+2025-11-09 01:19:17,295 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:19:17,295 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 0
+2025-11-09 01:19:17,566 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 78.02143607827185
+2025-11-09 01:19:17,566 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:19:17,568 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 75
+2025-11-09 01:19:17,860 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -310.47673833819067
+2025-11-09 01:19:17,860 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 300 and  required_futures_lots : 4
+2025-11-09 01:19:17,860 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : 375
+2025-11-09 01:19:18,136 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 119.7740624115105
+2025-11-09 01:19:18,136 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:19:18,136 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 300 and futures_quantity_diff : -450
+2025-11-09 01:19:18,418 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -355.9658821450522
+2025-11-09 01:19:18,418 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 375 and  required_futures_lots : 5
+2025-11-09 01:19:18,418 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 525
+2025-11-09 01:19:18,697 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 126.13175719354584
+2025-11-09 01:19:18,697 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:19:18,697 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 375 and futures_quantity_diff : -525
+2025-11-09 01:19:18,976 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -424.36817930608265
+2025-11-09 01:19:18,976 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 450 and  required_futures_lots : 6
+2025-11-09 01:19:18,976 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 600
+2025-11-09 01:19:19,253 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 217.6559414442157
+2025-11-09 01:19:19,253 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:19:19,253 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 450 and futures_quantity_diff : -675
+2025-11-09 01:19:19,535 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -518.7503541309692
+2025-11-09 01:19:19,535 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 525 and  required_futures_lots : 7
+2025-11-09 01:19:19,535 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 750
+2025-11-09 01:19:19,832 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 248.92872815170813
+2025-11-09 01:19:19,832 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:19:19,832 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 525 and futures_quantity_diff : -750
+2025-11-09 01:19:20,165 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -579.5393847392701
+2025-11-09 01:19:20,165 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 600 and  required_futures_lots : 8
+2025-11-09 01:19:20,165 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 825
+2025-11-09 01:19:20,499 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 258.57239222112867
+2025-11-09 01:19:20,499 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:19:20,499 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 600 and futures_quantity_diff : -825
+2025-11-09 01:19:20,840 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -605.3373473953592
+2025-11-09 01:19:20,840 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 600 and  required_futures_lots : 8
+2025-11-09 01:19:20,840 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 825
+2025-11-09 01:19:21,165 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 173.43604625842568
+2025-11-09 01:19:21,165 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:19:21,165 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 600 and futures_quantity_diff : -750
+2025-11-09 01:19:21,500 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -614.7912065750554
+2025-11-09 01:19:21,500 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 600 and  required_futures_lots : 8
+2025-11-09 01:19:21,500 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 750
+2025-11-09 01:19:21,832 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 158.88964549295133
+2025-11-09 01:19:21,832 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:19:21,832 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 600 and futures_quantity_diff : -750
+2025-11-09 01:19:22,136 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -652.0174526346485
+2025-11-09 01:19:22,136 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 675 and  required_futures_lots : 9
+2025-11-09 01:19:22,136 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 825
+2025-11-09 01:19:22,464 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 107.93890290671925
+2025-11-09 01:19:22,464 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:19:22,464 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 675 and futures_quantity_diff : -750
+2025-11-09 01:19:22,753 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -673.3909522675887
+2025-11-09 01:19:22,753 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 675 and  required_futures_lots : 9
+2025-11-09 01:19:22,753 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : 750
+2025-11-09 01:19:23,082 INFO:backtest.engine:Processing date: 2025-01-10
+2025-11-09 01:19:25,232 INFO:backtest.engine:Processing date: 2025-01-13
+2025-11-09 01:19:27,655 INFO:backtest.engine:Processing date: 2025-01-14
+2025-11-09 01:19:30,114 INFO:backtest.engine:Processing date: 2025-01-15
+2025-11-09 01:19:32,463 INFO:backtest.engine:Processing date: 2025-01-16
+2025-11-09 01:19:33,309 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -109.68068692321208
+2025-11-09 01:19:33,309 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+2025-11-09 01:19:33,310 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : 75
+2025-11-09 01:19:33,632 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -111.19315328811831
+2025-11-09 01:19:33,634 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+2025-11-09 01:19:33,634 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 0
+2025-11-09 01:19:33,930 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -131.42254154081346
+2025-11-09 01:19:33,930 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+2025-11-09 01:19:33,930 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 75
+2025-11-09 01:19:34,218 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -76.85175797749662
+2025-11-09 01:19:34,218 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+2025-11-09 01:19:34,218 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : -75
+2025-11-09 01:19:34,516 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -132.56998367294523
+2025-11-09 01:19:34,517 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+2025-11-09 01:19:34,517 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 75
+2025-11-09 01:19:34,813 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -178.73499112665127
+2025-11-09 01:19:34,813 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+2025-11-09 01:19:34,813 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : 0
+2025-11-09 01:19:35,102 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -187.61417357790663
+2025-11-09 01:19:35,102 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 225 and  required_futures_lots : 3
+2025-11-09 01:19:35,102 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : 75
+2025-11-09 01:19:35,402 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -125.56770218340682
+2025-11-09 01:19:35,404 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+2025-11-09 01:19:35,404 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 225 and futures_quantity_diff : -75
+2025-11-09 01:19:35,684 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -104.96690062028333
+2025-11-09 01:19:35,684 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+2025-11-09 01:19:35,684 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : -75
+2025-11-09 01:19:36,001 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -228.4153529397497
+2025-11-09 01:19:36,001 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 225 and  required_futures_lots : 3
+2025-11-09 01:19:36,001 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 150
+2025-11-09 01:19:36,321 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -89.06693408148146
+2025-11-09 01:19:36,321 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+2025-11-09 01:19:36,321 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 225 and futures_quantity_diff : -150
+2025-11-09 01:19:36,615 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -245.295399806256
+2025-11-09 01:19:36,615 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 225 and  required_futures_lots : 3
+2025-11-09 01:19:36,615 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 150
+2025-11-09 01:19:36,902 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -51.4520315414365
+2025-11-09 01:19:36,902 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+2025-11-09 01:19:36,915 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 225 and futures_quantity_diff : -150
+2025-11-09 01:19:37,202 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -117.22342991303103
+2025-11-09 01:19:37,202 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+2025-11-09 01:19:37,202 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 75
+2025-11-09 01:19:37,517 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -119.12392705472803
+2025-11-09 01:19:37,517 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+2025-11-09 01:19:37,517 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : 0
+2025-11-09 01:19:37,816 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -107.20107642081956
+2025-11-09 01:19:37,816 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+2025-11-09 01:19:37,816 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : -75
+2025-11-09 01:19:38,122 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -133.03393629645794
+2025-11-09 01:19:38,122 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+2025-11-09 01:19:38,122 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 75
+2025-11-09 01:19:38,418 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -9.9601646596129
+2025-11-09 01:19:38,418 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 0 and  required_futures_lots : 0
+2025-11-09 01:19:38,418 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : -150
+2025-11-09 01:19:38,702 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -181.64683415657265
+2025-11-09 01:19:38,702 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+2025-11-09 01:19:38,702 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : 150
+2025-11-09 01:19:39,003 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -343.4440407574012
+2025-11-09 01:19:39,003 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 375 and  required_futures_lots : 5
+2025-11-09 01:19:39,003 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : 225
+2025-11-09 01:19:39,302 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -118.22520392238232
+2025-11-09 01:19:39,302 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+2025-11-09 01:19:39,302 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 375 and futures_quantity_diff : -225
+2025-11-09 01:19:39,620 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -354.34291922315373
+2025-11-09 01:19:39,620 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 375 and  required_futures_lots : 5
+2025-11-09 01:19:39,620 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : 225
+2025-11-09 01:19:39,901 INFO:backtest.engine:Processing date: 2025-01-17
+2025-11-09 01:19:42,052 INFO:backtest.engine:Processing date: 2025-01-20
+2025-11-09 01:19:44,080 INFO:backtest.engine:Processing date: 2025-01-21
+2025-11-09 01:19:46,369 INFO:backtest.engine:Processing date: 2025-01-22
+2025-11-09 01:19:48,599 INFO:backtest.engine:Processing date: 2025-01-23
+2025-11-09 01:19:49,410 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 388.0533288948076
+2025-11-09 01:19:49,410 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+2025-11-09 01:19:49,410 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : -375
+2025-11-09 01:19:49,701 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 101.20286260189607
+2025-11-09 01:19:49,701 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:19:49,701 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -375 and futures_quantity_diff : 300
+2025-11-09 01:19:49,990 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 437.9707647609615
+2025-11-09 01:19:49,990 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -450 and  required_futures_lots : -6
+2025-11-09 01:19:49,990 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -375
+2025-11-09 01:19:50,285 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 176.44964468556725
+2025-11-09 01:19:50,285 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:19:50,285 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -450 and futures_quantity_diff : 300
+2025-11-09 01:19:50,568 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 450.01198231924536
+2025-11-09 01:19:50,568 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -450 and  required_futures_lots : -6
+2025-11-09 01:19:50,568 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -300
+2025-11-09 01:19:50,851 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 75.26603263616403
+2025-11-09 01:19:50,851 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:19:50,851 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -450 and futures_quantity_diff : 375
+2025-11-09 01:19:51,119 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 480.1130164866397
+2025-11-09 01:19:51,119 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -450 and  required_futures_lots : -6
+2025-11-09 01:19:51,119 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -375
+2025-11-09 01:19:51,411 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 139.93687191249978
+2025-11-09 01:19:51,411 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:19:51,411 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -450 and futures_quantity_diff : 300
+2025-11-09 01:19:54,098 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 535.5506468178638
+2025-11-09 01:19:54,098 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -525 and  required_futures_lots : -7
+2025-11-09 01:19:54,098 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -375
+2025-11-09 01:19:54,391 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 41.73289686257681
+2025-11-09 01:19:54,391 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:19:54,391 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -525 and futures_quantity_diff : 450
+2025-11-09 01:19:54,669 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 556.6720124247506
+2025-11-09 01:19:54,669 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -525 and  required_futures_lots : -7
+2025-11-09 01:19:54,669 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -450
+2025-11-09 01:19:54,951 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 92.94673731653097
+2025-11-09 01:19:54,951 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:19:54,951 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -525 and futures_quantity_diff : 450
+2025-11-09 01:19:57,730 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 635.7213675705433
+2025-11-09 01:19:57,730 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -600 and  required_futures_lots : -8
+2025-11-09 01:19:57,730 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -525
+2025-11-09 01:20:00,457 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 110.90548806603636
+2025-11-09 01:20:00,457 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:20:00,457 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -600 and futures_quantity_diff : 525
+2025-11-09 01:20:03,253 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 637.8912723358017
+2025-11-09 01:20:03,253 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -675 and  required_futures_lots : -9
+2025-11-09 01:20:03,253 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -600
+2025-11-09 01:20:05,964 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 41.83209684837482
+2025-11-09 01:20:05,964 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:20:05,964 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -675 and futures_quantity_diff : 600
+2025-11-09 01:20:08,688 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 645.9479245227368
+2025-11-09 01:20:08,692 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -675 and  required_futures_lots : -9
+2025-11-09 01:20:08,692 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -600
+2025-11-09 01:20:11,424 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 52.07575072340501
+2025-11-09 01:20:11,424 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:20:11,424 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -675 and futures_quantity_diff : 600
+2025-11-09 01:20:14,174 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 649.3161238972567
+2025-11-09 01:20:14,176 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -675 and  required_futures_lots : -9
+2025-11-09 01:20:14,176 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -600
+2025-11-09 01:20:16,881 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 49.78448139711395
+2025-11-09 01:20:16,881 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:20:16,881 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -675 and futures_quantity_diff : 600
+2025-11-09 01:20:19,678 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 658.7655443994522
+2025-11-09 01:20:19,678 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -675 and  required_futures_lots : -9
+2025-11-09 01:20:19,678 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -600
+2025-11-09 01:20:22,474 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 60.43395575779675
+2025-11-09 01:20:22,475 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:20:22,475 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -675 and futures_quantity_diff : 600
+2025-11-09 01:20:22,755 INFO:backtest.engine:Processing date: 2025-01-24
+2025-11-09 01:20:24,874 INFO:backtest.engine:Processing date: 2025-01-27
+2025-11-09 01:20:27,498 INFO:backtest.engine:Processing date: 2025-01-28
+2025-11-09 01:20:30,046 INFO:backtest.engine:Processing date: 2025-01-29
+2025-11-09 01:20:32,387 INFO:backtest.engine:Processing date: 2025-01-30
+2025-11-09 01:20:33,235 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 137.14322433613495
+2025-11-09 01:20:33,235 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:20:33,235 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : -150
+2025-11-09 01:20:33,544 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 52.621493887938584
+2025-11-09 01:20:33,544 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:20:33,544 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 75
+2025-11-09 01:20:33,869 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 233.92453639446353
+2025-11-09 01:20:33,869 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:20:33,869 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -150
+2025-11-09 01:20:34,189 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 164.71985765335512
+2025-11-09 01:20:34,189 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:20:34,189 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 75
+2025-11-09 01:20:34,489 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 251.77057548738424
+2025-11-09 01:20:34,489 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:20:34,489 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -75
+2025-11-09 01:20:34,797 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 107.22560610889258
+2025-11-09 01:20:34,797 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:20:34,797 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 150
+2025-11-09 01:20:35,376 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 325.48352811964963
+2025-11-09 01:20:35,376 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+2025-11-09 01:20:35,376 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -225
+2025-11-09 01:20:35,668 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 76.99627118471608
+2025-11-09 01:20:35,668 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:20:35,668 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : 225
+2025-11-09 01:20:35,991 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 242.91574839307611
+2025-11-09 01:20:35,991 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:20:35,991 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -150
+2025-11-09 01:20:36,291 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 109.7033712245813
+2025-11-09 01:20:36,291 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+2025-11-09 01:20:36,291 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 150
+2025-11-09 01:20:36,588 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 173.75994325152283
+2025-11-09 01:20:36,588 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:20:36,588 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -75
+2025-11-09 01:20:36,883 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 188.9070920223973
+2025-11-09 01:20:36,891 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:20:36,891 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -75
+2025-11-09 01:20:37,184 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 129.91378217359875
+2025-11-09 01:20:37,184 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:20:37,184 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 75
+2025-11-09 01:20:37,493 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 200.22825122721395
+2025-11-09 01:20:37,493 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:20:37,493 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -75
+2025-11-09 01:20:37,793 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 239.69727695817483
+2025-11-09 01:20:37,793 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+2025-11-09 01:20:37,793 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 0
+2025-11-09 01:20:38,083 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 117.13348190601397
+2025-11-09 01:20:38,083 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:20:38,083 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 75
+2025-11-09 01:20:38,394 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 308.4518755985784
+2025-11-09 01:20:38,394 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+2025-11-09 01:20:38,394 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -150
+2025-11-09 01:20:38,708 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -96.86426141760569
+2025-11-09 01:20:38,708 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+2025-11-09 01:20:38,708 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : 375
+2025-11-09 01:20:39,016 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 164.0003218538734
+2025-11-09 01:20:39,016 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+2025-11-09 01:20:39,016 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : -225
+2025-11-09 01:20:39,332 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -17.105654963511938
+2025-11-09 01:20:39,332 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 0 and  required_futures_lots : 0
+2025-11-09 01:20:39,332 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 150
+2025-11-09 01:20:39,632 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 303.33046534375814
+2025-11-09 01:20:39,632 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+2025-11-09 01:20:39,632 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : -300
+2025-11-09 01:20:42,372 INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 344.1102229815002
+2025-11-09 01:20:42,372 INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+2025-11-09 01:20:42,372 INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : -75
+2025-11-09 01:20:42,694 INFO:backtest.engine:Processing date: 2025-01-31
+2025-11-09 01:20:45,023 INFO:backtest.engine:Raw trades saved to strategies\short_straddle_delta_hedge\report\2025-11-09_011845\trades.csv
+2025-11-09 01:20:45,061 INFO:backtest.engine:Tradebook saved to strategies\short_straddle_delta_hedge\report\2025-11-09_011845\tradebook.csv
+2025-11-09 01:20:45,355 INFO:backtest.engine:Equity/drawdown plot saved to strategies\short_straddle_delta_hedge\report\2025-11-09_011845\equity_drawdown.html
+2025-11-09 01:20:45,374 INFO:backtest.engine:Report saved to strategies\short_straddle_delta_hedge\report\2025-11-09_011845\report.json
+2025-11-09 01:20:45,376 INFO:backtest.engine:Backtest Report:
+2025-11-09 01:20:45,377 INFO:backtest.engine:total_trades: 90
+2025-11-09 01:20:45,377 INFO:backtest.engine:profitable_trades: 9
+2025-11-09 01:20:45,378 INFO:backtest.engine:win_rate: 10.0
+2025-11-09 01:20:45,379 INFO:backtest.engine:total_pnl_gross: -787254.075
+2025-11-09 01:20:45,379 INFO:backtest.engine:total_charges: 16500.0
+2025-11-09 01:20:45,389 INFO:backtest.engine:total_pat: -803754.075
+2025-11-09 01:20:45,393 INFO:backtest.engine:initial_capital: 1000000.0
+2025-11-09 01:20:45,396 INFO:backtest.engine:return_on_initial_capital_gross_pct: -78.7254
+2025-11-09 01:20:45,397 INFO:backtest.engine:return_on_initial_capital_pat_pct: -80.3754
+2025-11-09 01:20:45,397 INFO:backtest.engine:max_drawdown: 865130.025
+2025-11-09 01:20:45,399 INFO:backtest.engine:max_drawdown_pct: 86.513
+2025-11-09 01:20:45,399 INFO:backtest.engine:sharpe_ratio: -18.3104
+INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-09_021710
+INFO:backtest.engine:Processing date: 2025-01-01
+INFO:backtest.engine:Processing date: 2025-01-02
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 186.7042010383555
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : -150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 52.01107846928505
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 134.2541211670578
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 148.4033543318792
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 158.74451283019755
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 260.57237777474467
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 200.60434549405045
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 247.5176132148752
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 239.84590895674137
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 195.46220993731248
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 217.73007472628439
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 278.6111065077975
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 268.5833662852216
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 311.7660748257207
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 377.54029420552035
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 333.69642391845457
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -375 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 430.60791064242494
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -450 and  required_futures_lots : -6
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : -150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 268.29229769309416
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -450 and futures_quantity_diff : 150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 394.7525831027501
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 349.91245581442035
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -375 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 366.47890368094
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -375 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 353.30891558483427
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -375 and futures_quantity_diff : 0
+INFO:backtest.engine:Processing date: 2025-01-03
+INFO:backtest.engine:Processing date: 2025-01-06
+INFO:backtest.engine:Processing date: 2025-01-07
+INFO:backtest.engine:Processing date: 2025-01-08
+INFO:backtest.engine:Processing date: 2025-01-09
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 95.20031810352083
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 209.34855534330632
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 127.05960313073058
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 158.67338563583513
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 78.02143607827185
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -310.47673833819067
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 300 and  required_futures_lots : 4
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : 375
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 119.7740624115105
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 300 and futures_quantity_diff : -450
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -355.9658821450522
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 375 and  required_futures_lots : 5
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 525
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 126.13175719354584
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 375 and futures_quantity_diff : -525
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -424.36817930608265
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 450 and  required_futures_lots : 6
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 600
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 217.6559414442157
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 450 and futures_quantity_diff : -675
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -518.7503541309692
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 525 and  required_futures_lots : 7
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 750
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 248.92872815170813
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 525 and futures_quantity_diff : -750
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -579.5393847392701
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 600 and  required_futures_lots : 8
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 825
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 258.57239222112867
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 600 and futures_quantity_diff : -825
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -605.3373473953592
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 600 and  required_futures_lots : 8
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 825
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 173.43604625842568
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 600 and futures_quantity_diff : -750
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -614.7912065750554
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 600 and  required_futures_lots : 8
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 750
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 158.88964549295133
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 600 and futures_quantity_diff : -750
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -652.0174526346485
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 675 and  required_futures_lots : 9
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 825
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 107.93890290671925
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 675 and futures_quantity_diff : -750
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -673.3909522675887
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 675 and  required_futures_lots : 9
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : 750
+INFO:backtest.engine:Processing date: 2025-01-10
+INFO:backtest.engine:Processing date: 2025-01-13
+INFO:backtest.engine:Processing date: 2025-01-14
+INFO:backtest.engine:Processing date: 2025-01-15
+INFO:backtest.engine:Processing date: 2025-01-16
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -109.68068692321208
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -111.19315328811831
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -131.42254154081346
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -76.85175797749662
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -132.56998367294523
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -178.73499112665127
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -187.61417357790663
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 225 and  required_futures_lots : 3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -125.56770218340682
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 225 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -104.96690062028333
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -228.4153529397497
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 225 and  required_futures_lots : 3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -89.06693408148146
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 225 and futures_quantity_diff : -150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -245.295399806256
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 225 and  required_futures_lots : 3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -51.4520315414365
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 225 and futures_quantity_diff : -150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -117.22342991303103
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -119.12392705472803
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -107.20107642081956
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -133.03393629645794
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -9.9601646596129
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 0 and  required_futures_lots : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : -150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -181.64683415657265
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : 150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -343.4440407574012
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 375 and  required_futures_lots : 5
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : 225
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -118.22520392238232
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 150 and  required_futures_lots : 2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 375 and futures_quantity_diff : -225
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -354.34291922315373
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 375 and  required_futures_lots : 5
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 150 and futures_quantity_diff : 225
+INFO:backtest.engine:Processing date: 2025-01-17
+INFO:backtest.engine:Processing date: 2025-01-20
+INFO:backtest.engine:Processing date: 2025-01-21
+INFO:backtest.engine:Processing date: 2025-01-22
+INFO:backtest.engine:Processing date: 2025-01-23
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 388.0533288948076
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : -375
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 101.20286260189607
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -375 and futures_quantity_diff : 300
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 437.9707647609615
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -450 and  required_futures_lots : -6
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -375
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 176.44964468556725
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -450 and futures_quantity_diff : 300
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 450.01198231924536
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -450 and  required_futures_lots : -6
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -300
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 75.26603263616403
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -450 and futures_quantity_diff : 375
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 480.1130164866397
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -450 and  required_futures_lots : -6
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -375
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 139.93687191249978
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -450 and futures_quantity_diff : 300
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 535.5506468178638
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -525 and  required_futures_lots : -7
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -375
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 41.73289686257681
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -525 and futures_quantity_diff : 450
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 556.6720124247506
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -525 and  required_futures_lots : -7
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -450
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 92.94673731653097
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -525 and futures_quantity_diff : 450
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 635.7213675705433
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -600 and  required_futures_lots : -8
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -525
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 110.90548806603636
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -600 and futures_quantity_diff : 525
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 637.8912723358017
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -675 and  required_futures_lots : -9
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -600
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 41.83209684837482
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -675 and futures_quantity_diff : 600
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 645.9479245227368
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -675 and  required_futures_lots : -9
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -600
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 52.07575072340501
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -675 and futures_quantity_diff : 600
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 649.3161238972567
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -675 and  required_futures_lots : -9
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -600
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 49.78448139711395
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -675 and futures_quantity_diff : 600
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 658.7655443994522
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -675 and  required_futures_lots : -9
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -600
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 60.43395575779675
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -675 and futures_quantity_diff : 600
+INFO:backtest.engine:Processing date: 2025-01-24
+INFO:backtest.engine:Processing date: 2025-01-27
+INFO:backtest.engine:Processing date: 2025-01-28
+INFO:backtest.engine:Processing date: 2025-01-29
+INFO:backtest.engine:Processing date: 2025-01-30
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 137.14322433613495
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : -150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 52.621493887938584
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 233.92453639446353
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 164.71985765335512
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 251.77057548738424
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 107.22560610889258
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 325.48352811964963
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -225
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 76.99627118471608
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : 225
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 242.91574839307611
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 109.7033712245813
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -75 and  required_futures_lots : -1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 173.75994325152283
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -75 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 188.9070920223973
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 129.91378217359875
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 200.22825122721395
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 239.69727695817483
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -225 and  required_futures_lots : -3
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 117.13348190601397
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -225 and futures_quantity_diff : 75
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 308.4518755985784
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : -150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -96.86426141760569
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 75 and  required_futures_lots : 1
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : 375
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 164.0003218538734
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -150 and  required_futures_lots : -2
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 75 and futures_quantity_diff : -225
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : -17.105654963511938
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : 0 and  required_futures_lots : 0
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -150 and futures_quantity_diff : 150
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 303.33046534375814
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -300 and  required_futures_lots : -4
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : 0 and futures_quantity_diff : -300
+INFO:strategies.short_straddle_delta_hedge.strategy:net_delta_val : 344.1102229815002
+INFO:strategies.short_straddle_delta_hedge.strategy:required_futures_quantity : -375 and  required_futures_lots : -5
+INFO:strategies.short_straddle_delta_hedge.strategy:current_futures : -300 and futures_quantity_diff : -75
+INFO:backtest.engine:Processing date: 2025-01-31
+INFO:backtest.engine:Raw trades saved to strategies\short_straddle_delta_hedge\report\2025-11-09_021710\trades.csv
+INFO:backtest.engine:Tradebook saved to strategies\short_straddle_delta_hedge\report\2025-11-09_021710\tradebook.csv
+INFO:backtest.engine:Equity/drawdown plot saved to strategies\short_straddle_delta_hedge\report\2025-11-09_021710\equity_drawdown.html
+INFO:backtest.engine:Report saved to strategies\short_straddle_delta_hedge\report\2025-11-09_021710\report.json
+INFO:backtest.engine:Backtest Report:
+INFO:backtest.engine:total_trades: 90
+INFO:backtest.engine:profitable_trades: 9
+INFO:backtest.engine:win_rate: 10.0
+INFO:backtest.engine:total_pnl_gross: -787254.075
+INFO:backtest.engine:total_charges: 16500.0
+INFO:backtest.engine:total_pat: -803754.075
+INFO:backtest.engine:initial_capital: 1000000.0
+INFO:backtest.engine:return_on_initial_capital_gross_pct: -78.7254
+INFO:backtest.engine:return_on_initial_capital_pat_pct: -80.3754
+INFO:backtest.engine:max_drawdown: 865130.025
+INFO:backtest.engine:max_drawdown_pct: 86.513
+INFO:backtest.engine:sharpe_ratio: -18.3104
+Running backtest from 2025-01-01 to 2025-01-31
+Strategy: short_straddle_delta_hedge
+Underlying: NIFTY

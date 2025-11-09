@@ -1,0 +1,62 @@
+2025-11-09 03:11:44,032 INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-09_031144
+2025-11-09 03:11:44,032 INFO:backtest.engine:Processing date: 2025-01-01
+2025-11-09 03:11:59,321 INFO:backtest.engine:Processing date: 2025-01-02
+2025-11-09 03:12:31,203 INFO:backtest.engine:Processing date: 2025-01-03
+2025-11-09 03:12:34,229 INFO:backtest.engine:Processing date: 2025-01-06
+2025-11-09 03:12:37,412 INFO:backtest.engine:Processing date: 2025-01-07
+2025-11-09 03:12:40,531 INFO:backtest.engine:Processing date: 2025-01-08
+2025-11-09 03:12:44,012 INFO:backtest.engine:Processing date: 2025-01-09
+2025-11-09 03:13:00,395 INFO:backtest.engine:Processing date: 2025-01-10
+2025-11-09 03:13:03,417 INFO:backtest.engine:Processing date: 2025-01-13
+2025-11-09 03:13:07,078 INFO:backtest.engine:Processing date: 2025-01-14
+2025-11-09 03:13:10,391 INFO:backtest.engine:Processing date: 2025-01-15
+2025-11-09 03:13:17,251 INFO:backtest.engine:Processing date: 2025-01-16
+2025-11-09 03:13:37,789 INFO:backtest.engine:Processing date: 2025-01-17
+2025-11-09 03:13:42,118 INFO:backtest.engine:Processing date: 2025-01-20
+2025-11-09 03:13:45,239 INFO:backtest.engine:Processing date: 2025-01-21
+2025-11-09 03:13:48,353 INFO:backtest.engine:Processing date: 2025-01-22
+2025-11-09 03:13:51,844 INFO:backtest.engine:Processing date: 2025-01-23
+2025-11-09 03:15:00,016 INFO:backtest.engine:Processing date: 2025-01-24
+2025-11-09 03:15:04,238 INFO:backtest.engine:Processing date: 2025-01-27
+2025-11-09 03:15:07,941 INFO:backtest.engine:Processing date: 2025-01-28
+2025-11-09 03:15:15,081 INFO:backtest.engine:Processing date: 2025-01-29
+2025-11-09 03:15:24,730 INFO:backtest.engine:Processing date: 2025-01-30
+INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-09_031635
+INFO:backtest.engine:Processing date: 2025-01-01
+INFO:backtest.engine:Processing date: 2025-01-02
+INFO:backtest.engine:Processing date: 2025-01-03
+INFO:backtest.engine:Processing date: 2025-01-06
+INFO:backtest.engine:Processing date: 2025-01-07
+INFO:backtest.engine:Processing date: 2025-01-08
+INFO:backtest.engine:Processing date: 2025-01-09
+INFO:backtest.engine:Processing date: 2025-01-10
+INFO:backtest.engine:Processing date: 2025-01-13
+INFO:backtest.engine:Processing date: 2025-01-14
+INFO:backtest.engine:Processing date: 2025-01-15
+INFO:backtest.engine:Processing date: 2025-01-16
+INFO:backtest.engine:Processing date: 2025-01-17
+INFO:backtest.engine:Processing date: 2025-01-20
+INFO:backtest.engine:Processing date: 2025-01-21
+INFO:backtest.engine:Processing date: 2025-01-22
+INFO:backtest.engine:Processing date: 2025-01-23
+Running backtest from 2025-01-01 to 2025-01-31
+Strategy: short_straddle_delta_hedge
+Underlying: NIFTY
+Initial Capital: 3700000
+Traceback (most recent call last):
+  File "C:\Users\kakad\OneDrive\Documents\Quant_Projects\opt_backtestser\main.py", line 50, in <module>
+    main()
+  File "C:\Users\kakad\OneDrive\Documents\Quant_Projects\opt_backtestser\main.py", line 47, in main
+    backtester.run(start_date, end_date)
+  File "C:\Users\kakad\OneDrive\Documents\Quant_Projects\opt_backtestser\backtest\engine.py", line 426, in run
+    self.strategy.on_data(current_time, minute_data)
+  File "C:\Users\kakad\OneDrive\Documents\Quant_Projects\opt_backtestser\strategies\short_straddle_delta_hedge\strategy.py", line 98, in on_data
+    spot_key = self.backtester.get_spot_key(underlying)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kakad\OneDrive\Documents\Quant_Projects\opt_backtestser\backtest\engine.py", line 189, in get_spot_key
+    if df.get('instrument', None) == 'SPOT' and str(df.get('underlying', '')).upper() == up:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\kakad\OneDrive\Documents\Quant_Projects\opt_backtestser\.venv\Lib\site-packages\pandas\core\ops\common.py", line 68, in new_method
+    prio = getattr(other, "__pandas_priority__", None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

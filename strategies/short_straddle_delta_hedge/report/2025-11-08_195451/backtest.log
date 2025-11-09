@@ -1,0 +1,9 @@
+2025-11-08 19:54:51,781 INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-08_195451
+2025-11-08 19:54:51,782 INFO:backtest.engine:Processing date: 2025-01-01
+2025-11-08 19:54:57,768 INFO:backtest.engine:Processing date: 2025-01-02
+2025-11-08 19:54:58,726 ERROR:backtest.engine:Error recording trade: Trade.__init__() got an unexpected keyword argument 'transaction_cost'
+2025-11-08 19:54:58,726 ERROR:backtest.engine:Values: symbol=NIFTY02JAN2523750CE, price=124.27560000000001, quantity=75
+2025-11-08 19:54:58,732 ERROR:backtest.engine:Error recording trade: Trade.__init__() got an unexpected keyword argument 'transaction_cost'
+2025-11-08 19:54:58,732 ERROR:backtest.engine:Values: symbol=NIFTY02JAN2523750PE, price=104.64525, quantity=75
+2025-11-08 19:55:02,620 ERROR:backtest.engine:Error recording trade: Trade.__init__() got an unexpected keyword argument 'transaction_cost'
+2025-11-08 19:55:02,620 ERROR:backtest.engine:Values: symbol=NIFTY30JAN25FUT, price=24016.2597, quantity=1

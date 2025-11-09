@@ -1,0 +1,59 @@
+2025-11-09 02:59:45,230 INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-09_025945
+2025-11-09 02:59:45,240 INFO:backtest.engine:Processing date: 2025-01-01
+2025-11-09 03:00:01,477 INFO:backtest.engine:Processing date: 2025-01-02
+2025-11-09 03:00:37,216 INFO:backtest.engine:Processing date: 2025-01-03
+2025-11-09 03:00:40,274 INFO:backtest.engine:Processing date: 2025-01-06
+2025-11-09 03:00:43,313 INFO:backtest.engine:Processing date: 2025-01-07
+2025-11-09 03:00:46,356 INFO:backtest.engine:Processing date: 2025-01-08
+2025-11-09 03:00:53,008 INFO:backtest.engine:Processing date: 2025-01-09
+2025-11-09 03:01:16,323 INFO:backtest.engine:Processing date: 2025-01-10
+2025-11-09 03:01:20,058 INFO:backtest.engine:Processing date: 2025-01-13
+2025-11-09 03:01:23,699 INFO:backtest.engine:Processing date: 2025-01-14
+2025-11-09 03:01:27,270 INFO:backtest.engine:Processing date: 2025-01-15
+2025-11-09 03:01:31,033 INFO:backtest.engine:Raw trades saved to strategies\short_straddle_delta_hedge\report\2025-11-09_025945\trades.csv
+2025-11-09 03:01:31,049 INFO:backtest.engine:Tradebook saved to strategies\short_straddle_delta_hedge\report\2025-11-09_025945\tradebook.csv
+2025-11-09 03:01:31,290 INFO:backtest.engine:Equity/drawdown plot saved to strategies\short_straddle_delta_hedge\report\2025-11-09_025945\equity_drawdown.html
+2025-11-09 03:01:31,303 INFO:backtest.engine:Report saved to strategies\short_straddle_delta_hedge\report\2025-11-09_025945\report.json
+2025-11-09 03:01:31,303 INFO:backtest.engine:Backtest Report:
+2025-11-09 03:01:31,303 INFO:backtest.engine:total_trades: 32
+2025-11-09 03:01:31,303 INFO:backtest.engine:profitable_trades: 3
+2025-11-09 03:01:31,303 INFO:backtest.engine:win_rate: 9.38
+2025-11-09 03:01:31,303 INFO:backtest.engine:total_pnl_gross: -525729.9
+2025-11-09 03:01:31,303 INFO:backtest.engine:total_charges: 5800.0
+2025-11-09 03:01:31,303 INFO:backtest.engine:total_pat: -531529.9
+2025-11-09 03:01:31,303 INFO:backtest.engine:initial_capital: 3700000.0
+2025-11-09 03:01:31,303 INFO:backtest.engine:return_on_initial_capital_gross_pct: -14.2089
+2025-11-09 03:01:31,306 INFO:backtest.engine:return_on_initial_capital_pat_pct: -14.3657
+2025-11-09 03:01:31,306 INFO:backtest.engine:max_drawdown: 525729.9
+2025-11-09 03:01:31,306 INFO:backtest.engine:max_drawdown_pct: 14.2089
+2025-11-09 03:01:31,309 INFO:backtest.engine:sharpe_ratio: -274.6447
+INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-09_030450
+INFO:backtest.engine:Processing date: 2025-01-01
+INFO:backtest.engine:Processing date: 2025-01-02
+INFO:backtest.engine:Processing date: 2025-01-03
+INFO:backtest.engine:Processing date: 2025-01-06
+INFO:backtest.engine:Processing date: 2025-01-07
+INFO:backtest.engine:Processing date: 2025-01-08
+INFO:backtest.engine:Processing date: 2025-01-09
+INFO:backtest.engine:Processing date: 2025-01-10
+INFO:backtest.engine:Raw trades saved to strategies\short_straddle_delta_hedge\report\2025-11-09_030450\trades.csv
+INFO:backtest.engine:Tradebook saved to strategies\short_straddle_delta_hedge\report\2025-11-09_030450\tradebook.csv
+INFO:backtest.engine:Equity/drawdown plot saved to strategies\short_straddle_delta_hedge\report\2025-11-09_030450\equity_drawdown.html
+INFO:backtest.engine:Report saved to strategies\short_straddle_delta_hedge\report\2025-11-09_030450\report.json
+INFO:backtest.engine:Backtest Report:
+INFO:backtest.engine:total_trades: 32
+INFO:backtest.engine:profitable_trades: 3
+INFO:backtest.engine:win_rate: 9.38
+INFO:backtest.engine:total_pnl_gross: -525729.9
+INFO:backtest.engine:total_charges: 5800.0
+INFO:backtest.engine:total_pat: -531529.9
+INFO:backtest.engine:initial_capital: 3700000.0
+INFO:backtest.engine:return_on_initial_capital_gross_pct: -14.2089
+INFO:backtest.engine:return_on_initial_capital_pat_pct: -14.3657
+INFO:backtest.engine:max_drawdown: 525729.9
+INFO:backtest.engine:max_drawdown_pct: 14.2089
+INFO:backtest.engine:sharpe_ratio: -274.6447
+Running backtest from 2025-01-01 to 2025-01-10
+Strategy: short_straddle_delta_hedge
+Underlying: NIFTY
+Initial Capital: 3700000

@@ -1,0 +1,26 @@
+2025-11-09 03:16:35,245 INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-09_031635
+2025-11-09 03:16:35,245 INFO:backtest.engine:Processing date: 2025-01-01
+2025-11-09 03:16:52,360 INFO:backtest.engine:Processing date: 2025-01-02
+2025-11-09 03:17:20,405 INFO:backtest.engine:Processing date: 2025-01-03
+2025-11-09 03:17:27,767 INFO:backtest.engine:Processing date: 2025-01-06
+2025-11-09 03:17:31,430 INFO:backtest.engine:Processing date: 2025-01-07
+2025-11-09 03:17:34,709 INFO:backtest.engine:Processing date: 2025-01-08
+2025-11-09 03:17:38,471 INFO:backtest.engine:Processing date: 2025-01-09
+2025-11-09 03:17:48,370 INFO:backtest.engine:Processing date: 2025-01-10
+2025-11-09 03:17:51,392 INFO:backtest.engine:Processing date: 2025-01-13
+2025-11-09 03:17:54,729 INFO:backtest.engine:Processing date: 2025-01-14
+2025-11-09 03:17:58,534 INFO:backtest.engine:Processing date: 2025-01-15
+2025-11-09 03:18:02,007 INFO:backtest.engine:Processing date: 2025-01-16
+2025-11-09 03:18:13,343 INFO:backtest.engine:Processing date: 2025-01-17
+2025-11-09 03:18:16,974 INFO:backtest.engine:Processing date: 2025-01-20
+2025-11-09 03:18:20,037 INFO:backtest.engine:Processing date: 2025-01-21
+2025-11-09 03:18:23,826 INFO:backtest.engine:Processing date: 2025-01-22
+2025-11-09 03:18:27,396 INFO:backtest.engine:Processing date: 2025-01-23
+INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-09_031950
+INFO:backtest.engine:Processing date: 2025-01-01
+INFO:backtest.engine:Processing date: 2025-01-02
+INFO:backtest.engine:Processing date: 2025-01-03
+INFO:backtest.engine:Processing date: 2025-01-06
+INFO:backtest.engine:Processing date: 2025-01-07
+INFO:backtest.engine:Processing date: 2025-01-08
+INFO:backtest.engine:Processing date: 2025-01-09

@@ -1,0 +1,22 @@
+[project]
+name = "opt-backtestser"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas",
+    "matplotlib",
+    "fyers-api",
+    "pyarrow",
+    "mibian>=0.1.3",
+    "scipy>=1.11.0",
+    "fastapi>=0.100.0",
+    "uvicorn[standard]>=0.22.0",
+    "streamlit>=1.26.0",
+    "quant-data-lib",
+    "plotly>=6.4.0",
+]
+
+[tool.uv.sources]
+quant-data-lib = { url = "http://192.168.50.40:8000/quant_data_lib-0.2.0-py3-none-any.whl" }

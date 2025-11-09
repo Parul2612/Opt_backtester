@@ -1,0 +1,9 @@
+.venv/*
+data/*
+!data/data_downloader.py
+!data/read_data.py
+backtest/__pycache__/
+strategies/*/__pycache__/
+frontend/__pycache__/
+__pycache__/*
+indices_data.csv

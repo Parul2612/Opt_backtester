@@ -1,0 +1,264 @@
+2025-11-08 12:52:27,562 INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-08_125227
+2025-11-08 12:52:27,562 INFO:backtest.engine:Processing date: 2025-01-01
+2025-11-08 12:52:32,972 INFO:backtest.engine:Processing date: 2025-01-02
+2025-11-08 12:52:37,441 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:52:40,982 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:52:45,308 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:52:48,924 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:52:52,835 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:52:56,337 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:52:59,869 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:03,458 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:07,578 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:11,219 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:15,121 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:18,459 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:22,479 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:25,913 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:29,927 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:33,484 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:37,200 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:40,900 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:44,742 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:48,287 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:51,942 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:55,232 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:53:59,106 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:02,611 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:06,669 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:10,250 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:14,130 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:17,870 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:21,768 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:25,087 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:29,314 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:32,818 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:36,661 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:40,096 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:44,465 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:48,240 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:52,859 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:54:56,672 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:01,224 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:04,761 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:09,306 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:12,987 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:18,416 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:22,981 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:23,383 INFO:backtest.engine:Processing date: 2025-01-03
+2025-11-08 12:55:26,089 INFO:backtest.engine:Processing date: 2025-01-06
+2025-11-08 12:55:29,537 INFO:backtest.engine:Processing date: 2025-01-07
+2025-11-08 12:55:33,470 INFO:backtest.engine:Processing date: 2025-01-08
+2025-11-08 12:55:38,541 INFO:backtest.engine:Processing date: 2025-01-09
+2025-11-08 12:55:39,707 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:39,719 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:40,103 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:40,122 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:40,627 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:40,640 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:40,989 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:40,989 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:41,408 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:41,411 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:41,845 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:45,596 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:46,158 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:46,173 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:46,621 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:46,621 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:47,013 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:47,029 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:47,424 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:47,432 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:47,776 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:47,792 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:48,205 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:48,209 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:48,709 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:48,709 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:49,094 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:53,189 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:53,522 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:53,522 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:53,931 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:57,450 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:58,148 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:58,154 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:55:58,587 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:02,604 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:03,001 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:06,634 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:07,016 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:07,016 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:07,393 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:10,847 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:11,251 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:14,977 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:15,411 INFO:backtest.engine:Processing date: 2025-01-10
+2025-11-08 12:56:18,268 INFO:backtest.engine:Processing date: 2025-01-13
+2025-11-08 12:56:21,744 INFO:backtest.engine:Processing date: 2025-01-14
+2025-11-08 12:56:25,090 INFO:backtest.engine:Processing date: 2025-01-15
+2025-11-08 12:56:28,578 INFO:backtest.engine:Processing date: 2025-01-16
+2025-11-08 12:56:29,820 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:29,820 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:30,308 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:30,313 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:30,730 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:30,730 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:31,134 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:31,150 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:31,535 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:31,551 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:32,001 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:32,001 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:32,440 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:32,440 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:32,779 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:32,785 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:33,241 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:33,257 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:33,717 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:33,722 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:34,084 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:34,084 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:34,486 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:37,755 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:38,129 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:38,133 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:38,552 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:38,552 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:38,985 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:42,380 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:42,730 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:42,730 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:43,096 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:46,523 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:46,956 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:46,956 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:47,418 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:50,740 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:51,081 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:51,097 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:51,580 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:51,580 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:51,951 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:55,384 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:56:55,791 INFO:backtest.engine:Processing date: 2025-01-17
+2025-11-08 12:56:58,757 INFO:backtest.engine:Processing date: 2025-01-20
+2025-11-08 12:57:01,987 INFO:backtest.engine:Processing date: 2025-01-21
+2025-11-08 12:57:05,970 INFO:backtest.engine:Processing date: 2025-01-22
+2025-11-08 12:57:09,452 INFO:backtest.engine:Processing date: 2025-01-23
+2025-11-08 12:57:14,478 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:14,485 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:15,002 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:15,008 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:19,209 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:19,212 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:19,638 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:19,640 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:20,080 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:20,080 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:24,874 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:24,887 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:29,530 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:29,530 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:34,073 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:34,084 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:34,820 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:34,826 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:39,040 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:39,047 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:44,453 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:44,463 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:48,243 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:48,258 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:48,668 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:48,684 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:49,053 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:49,059 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:53,251 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:53,263 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:56,985 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:57:57,000 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:00,645 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:04,092 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:07,983 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:11,626 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:15,338 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:18,969 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:19,364 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:23,002 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:26,959 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:30,316 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:34,060 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:37,752 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:38,090 INFO:backtest.engine:Processing date: 2025-01-24
+2025-11-08 12:58:40,849 INFO:backtest.engine:Processing date: 2025-01-27
+2025-11-08 12:58:43,884 INFO:backtest.engine:Processing date: 2025-01-28
+2025-11-08 12:58:47,217 INFO:backtest.engine:Processing date: 2025-01-29
+2025-11-08 12:58:50,722 INFO:backtest.engine:Processing date: 2025-01-30
+2025-11-08 12:58:55,467 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:58:58,898 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:02,800 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:06,290 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:10,042 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:13,559 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:17,617 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:21,222 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:24,960 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:28,671 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:32,870 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:36,375 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:40,337 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:43,944 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:47,875 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:51,546 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:55,515 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 12:59:58,944 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:02,665 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:06,136 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:09,883 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:13,282 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:17,015 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:20,374 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:24,343 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:27,770 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:31,754 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:35,215 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:38,969 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:42,352 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:46,719 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:50,449 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:54,381 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:00:58,141 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:01:02,238 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:01:05,749 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:01:09,659 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:01:13,060 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:01:17,214 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:01:20,840 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:01:24,853 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:01:28,353 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:01:32,382 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:01:32,382 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 13:01:32,853 INFO:backtest.engine:Processing date: 2025-01-31
+2025-11-08 13:01:36,076 INFO:backtest.engine:Trades saved to strategies\short_straddle_delta_hedge\report\2025-11-08_125227\trades.csv
+2025-11-08 13:01:36,081 INFO:backtest.engine:PnL summary saved to strategies\short_straddle_delta_hedge\report\2025-11-08_125227\pnl_summary.csv
+2025-11-08 13:01:36,098 INFO:backtest.engine:Report saved to strategies\short_straddle_delta_hedge\report\2025-11-08_125227\report.json
+2025-11-08 13:01:36,100 INFO:backtest.engine:Backtest Report:
+2025-11-08 13:01:36,103 INFO:backtest.engine:total_trades: 31
+2025-11-08 13:01:36,103 INFO:backtest.engine:profitable_trades: 16
+2025-11-08 13:01:36,103 INFO:backtest.engine:win_rate: 51.61
+2025-11-08 13:01:36,103 INFO:backtest.engine:total_pnl: -2484.858
+2025-11-08 13:01:36,103 INFO:backtest.engine:avg_trade_pnl: -80.157
+2025-11-08 13:01:36,103 INFO:backtest.engine:max_profit: 23919.057
+2025-11-08 13:01:36,103 INFO:backtest.engine:max_loss: -47318.27
+2025-11-08 13:01:36,103 INFO:backtest.engine:open_positions: []
+2025-11-08 13:01:36,103 INFO:backtest.engine:profit_factor: 0.986
+Traceback (most recent call last):
+  File "C:\Users\kakad\OneDrive\Documents\Quant_Projects\opt_backtestser\main.py", line 5, in <module>
+    from strategies.short_straddle_delta_hedge.strategy import ShortStraddleDeltaHedge
+  File "C:\Users\kakad\OneDrive\Documents\Quant_Projects\opt_backtestser\strategies\short_straddle_delta_hedge\strategy.py", line 5, in <module>
+    import mibian  # For options Greeks calculation
+    ^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'mibian'

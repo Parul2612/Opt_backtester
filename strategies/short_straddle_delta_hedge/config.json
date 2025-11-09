@@ -1,0 +1,15 @@
+{
+    "strategy_name": "short_straddle_delta_hedge",
+    "underlying": "NIFTY",
+    "strike_interval": 50,
+    "lot_size": 75,
+    "quantity": 10,
+    "capital": 3700000,
+    "timeframe": "1min",
+    "trading_start_time": "09:30:00",
+    "trading_end_time": "15:15:00",
+    "square_off_time": "15:20:00",
+    "hedge_frequency_minute": 15,
+    "vix_filter": true,
+    "vix_threshold": 13
+}

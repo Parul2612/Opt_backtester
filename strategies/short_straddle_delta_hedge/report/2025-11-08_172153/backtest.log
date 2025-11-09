@@ -1,0 +1,19 @@
+2025-11-08 17:21:53,749 INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-08_172153
+2025-11-08 17:21:53,753 INFO:backtest.engine:Processing date: 2025-01-01
+2025-11-08 17:22:01,127 INFO:backtest.engine:Processing date: 2025-01-02
+2025-11-08 17:22:19,271 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 17:22:27,709 WARNING:strategies.short_straddle_delta_hedge.strategy:Error calculating implied vol: Implied vol out of reasonable range. Using default.
+2025-11-08 17:22:29,807 INFO:backtest.engine:Processing date: 2025-01-03
+2025-11-08 17:22:35,508 INFO:backtest.engine:Trades saved to strategies\short_straddle_delta_hedge\report\2025-11-08_172153\trades.csv
+2025-11-08 17:22:35,514 INFO:backtest.engine:PnL summary saved to strategies\short_straddle_delta_hedge\report\2025-11-08_172153\pnl_summary.csv
+2025-11-08 17:22:35,530 INFO:backtest.engine:Report saved to strategies\short_straddle_delta_hedge\report\2025-11-08_172153\report.json
+2025-11-08 17:22:35,530 INFO:backtest.engine:Backtest Report:
+2025-11-08 17:22:35,530 INFO:backtest.engine:total_trades: 6
+2025-11-08 17:22:35,536 INFO:backtest.engine:profitable_trades: 3
+2025-11-08 17:22:35,536 INFO:backtest.engine:win_rate: 50.0
+2025-11-08 17:22:35,536 INFO:backtest.engine:total_pnl: -10778.825
+2025-11-08 17:22:35,536 INFO:backtest.engine:avg_trade_pnl: -1796.471
+2025-11-08 17:22:35,536 INFO:backtest.engine:max_profit: 24016.26
+2025-11-08 17:22:35,539 INFO:backtest.engine:max_loss: -24309.235
+2025-11-08 17:22:35,539 INFO:backtest.engine:open_positions: []
+2025-11-08 17:22:35,539 INFO:backtest.engine:profit_factor: 0.767

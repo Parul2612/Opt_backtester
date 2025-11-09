@@ -1,0 +1,82 @@
+2025-11-09 03:51:57,315 INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-09_035157
+2025-11-09 03:51:57,315 INFO:backtest.engine:Processing date: 2025-01-01
+2025-11-09 03:52:11,919 INFO:backtest.engine:Processing date: 2025-01-02
+2025-11-09 03:52:57,714 INFO:backtest.engine:Processing date: 2025-01-03
+2025-11-09 03:53:04,418 INFO:backtest.engine:Processing date: 2025-01-06
+2025-11-09 03:53:12,546 INFO:backtest.engine:Processing date: 2025-01-07
+2025-11-09 03:53:20,026 INFO:backtest.engine:Processing date: 2025-01-08
+2025-11-09 03:53:29,328 INFO:backtest.engine:Processing date: 2025-01-09
+2025-11-09 03:53:54,162 INFO:backtest.engine:Processing date: 2025-01-10
+2025-11-09 03:54:01,242 INFO:backtest.engine:Processing date: 2025-01-13
+2025-11-09 03:54:09,635 INFO:backtest.engine:Processing date: 2025-01-14
+2025-11-09 03:54:17,641 INFO:backtest.engine:Processing date: 2025-01-15
+2025-11-09 03:54:25,617 INFO:backtest.engine:Processing date: 2025-01-16
+2025-11-09 03:54:53,386 INFO:backtest.engine:Processing date: 2025-01-17
+2025-11-09 03:55:00,629 INFO:backtest.engine:Processing date: 2025-01-20
+2025-11-09 03:55:07,583 INFO:backtest.engine:Processing date: 2025-01-21
+2025-11-09 03:55:15,330 INFO:backtest.engine:Processing date: 2025-01-22
+2025-11-09 03:55:22,956 INFO:backtest.engine:Processing date: 2025-01-23
+2025-11-09 03:57:28,163 INFO:backtest.engine:Processing date: 2025-01-24
+2025-11-09 03:57:35,952 INFO:backtest.engine:Processing date: 2025-01-27
+2025-11-09 03:57:43,887 INFO:backtest.engine:Processing date: 2025-01-28
+2025-11-09 03:57:52,536 INFO:backtest.engine:Processing date: 2025-01-29
+2025-11-09 03:58:00,654 INFO:backtest.engine:Processing date: 2025-01-30
+2025-11-09 03:58:37,331 INFO:backtest.engine:Processing date: 2025-01-31
+2025-11-09 03:58:48,119 INFO:backtest.engine:Processing date: 2025-02-03
+2025-11-09 03:58:58,205 INFO:backtest.engine:Processing date: 2025-02-04
+2025-11-09 03:59:07,721 INFO:backtest.engine:Processing date: 2025-02-05
+2025-11-09 03:59:15,867 INFO:backtest.engine:Processing date: 2025-02-06
+2025-11-09 03:59:39,736 INFO:backtest.engine:Processing date: 2025-02-07
+2025-11-09 03:59:47,273 INFO:backtest.engine:Processing date: 2025-02-10
+2025-11-09 03:59:54,762 INFO:backtest.engine:Processing date: 2025-02-11
+2025-11-09 04:00:04,260 INFO:backtest.engine:Processing date: 2025-02-12
+2025-11-09 04:00:13,316 INFO:backtest.engine:Processing date: 2025-02-13
+2025-11-09 04:00:46,380 INFO:backtest.engine:Processing date: 2025-02-14
+2025-11-09 04:00:52,598 INFO:backtest.engine:Processing date: 2025-02-17
+2025-11-09 04:00:58,990 INFO:backtest.engine:Processing date: 2025-02-18
+2025-11-09 04:01:06,123 INFO:backtest.engine:Processing date: 2025-02-19
+2025-11-09 04:01:12,905 INFO:backtest.engine:Processing date: 2025-02-20
+2025-11-09 04:02:18,912 INFO:backtest.engine:Processing date: 2025-02-21
+2025-11-09 04:02:25,196 INFO:backtest.engine:Processing date: 2025-02-24
+2025-11-09 04:02:32,668 INFO:backtest.engine:Processing date: 2025-02-25
+2025-11-09 04:02:40,147 INFO:backtest.engine:Processing date: 2025-02-26
+2025-11-09 04:02:41,115 INFO:backtest.engine:Processing date: 2025-02-27
+2025-11-09 04:03:22,165 INFO:backtest.engine:Processing date: 2025-02-28
+2025-11-09 04:03:29,581 INFO:backtest.engine:Processing date: 2025-03-03
+2025-11-09 04:03:37,052 INFO:backtest.engine:Processing date: 2025-03-04
+2025-11-09 04:03:43,574 INFO:backtest.engine:Processing date: 2025-03-05
+2025-11-09 04:03:51,196 INFO:backtest.engine:Processing date: 2025-03-06
+2025-11-09 04:05:53,547 INFO:backtest.engine:Processing date: 2025-03-07
+2025-11-09 04:06:00,213 INFO:backtest.engine:Processing date: 2025-03-10
+2025-11-09 04:06:06,771 INFO:backtest.engine:Processing date: 2025-03-11
+2025-11-09 04:06:13,169 INFO:backtest.engine:Processing date: 2025-03-12
+2025-11-09 04:06:19,628 INFO:backtest.engine:Processing date: 2025-03-13
+2025-11-09 04:06:47,459 INFO:backtest.engine:Processing date: 2025-03-14
+2025-11-09 04:06:48,444 INFO:backtest.engine:Processing date: 2025-03-17
+2025-11-09 04:06:53,914 INFO:backtest.engine:Processing date: 2025-03-18
+2025-11-09 04:07:00,224 INFO:backtest.engine:Processing date: 2025-03-19
+2025-11-09 04:07:06,642 INFO:backtest.engine:Processing date: 2025-03-20
+2025-11-09 04:08:00,166 INFO:backtest.engine:Processing date: 2025-03-21
+2025-11-09 04:08:04,747 INFO:backtest.engine:Processing date: 2025-03-24
+2025-11-09 04:08:09,552 INFO:backtest.engine:Processing date: 2025-03-25
+2025-11-09 04:08:14,196 INFO:backtest.engine:Processing date: 2025-03-26
+2025-11-09 04:08:18,872 INFO:backtest.engine:Processing date: 2025-03-27
+2025-11-09 04:09:16,856 INFO:backtest.engine:Processing date: 2025-03-28
+2025-11-09 04:09:18,793 INFO:backtest.engine:Processing date: 2025-03-31
+2025-11-09 04:09:19,831 INFO:backtest.engine:Raw trades saved to strategies\short_straddle_delta_hedge\report\2025-11-09_035157\trades.csv
+2025-11-09 04:09:20,032 INFO:backtest.engine:Tradebook saved to strategies\short_straddle_delta_hedge\report\2025-11-09_035157\tradebook.csv
+2025-11-09 04:09:20,731 INFO:backtest.engine:Equity/drawdown plot saved to strategies\short_straddle_delta_hedge\report\2025-11-09_035157\equity_drawdown.html
+2025-11-09 04:09:20,804 INFO:backtest.engine:Report saved to strategies\short_straddle_delta_hedge\report\2025-11-09_035157\report.json
+2025-11-09 04:09:20,805 INFO:backtest.engine:Backtest Report:
+2025-11-09 04:09:20,805 INFO:backtest.engine:total_trades: 253
+2025-11-09 04:09:20,805 INFO:backtest.engine:profitable_trades: 23
+2025-11-09 04:09:20,805 INFO:backtest.engine:win_rate: 9.09
+2025-11-09 04:09:20,807 INFO:backtest.engine:total_pnl_gross: -1866698.85
+2025-11-09 04:09:20,809 INFO:backtest.engine:total_charges: 46700.0
+2025-11-09 04:09:20,809 INFO:backtest.engine:total_pat: -1913398.85
+2025-11-09 04:09:20,809 INFO:backtest.engine:initial_capital: 3700000.0
+2025-11-09 04:09:20,809 INFO:backtest.engine:return_on_initial_capital_gross_pct: -50.4513
+2025-11-09 04:09:20,809 INFO:backtest.engine:return_on_initial_capital_pat_pct: -51.7135
+2025-11-09 04:09:20,809 INFO:backtest.engine:max_drawdown: 1918938.375
+2025-11-09 04:09:20,813 INFO:backtest.engine:max_drawdown_pct: 51.8632
+2025-11-09 04:09:20,813 INFO:backtest.engine:sharpe_ratio: -19.828

@@ -1,0 +1,14 @@
+{
+    "total_trades": 48,
+    "profitable_trades": 4,
+    "win_rate": 8.33,
+    "total_pnl_gross": -575072.475,
+    "total_charges": 8700.0,
+    "total_pat": -583772.475,
+    "initial_capital": 3700000.0,
+    "return_on_initial_capital_gross_pct": -15.5425,
+    "return_on_initial_capital_pat_pct": -15.7776,
+    "max_drawdown": 575072.475,
+    "max_drawdown_pct": 15.5425,
+    "sharpe_ratio": -24.591
+}

@@ -1,0 +1,117 @@
+2025-11-09 03:41:23,891 INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-09_034123
+2025-11-09 03:41:23,891 INFO:backtest.engine:Processing date: 2025-01-01
+2025-11-09 03:41:38,700 INFO:backtest.engine:Processing date: 2025-01-02
+2025-11-09 03:42:24,014 INFO:backtest.engine:Processing date: 2025-01-03
+2025-11-09 03:42:31,975 INFO:backtest.engine:Processing date: 2025-01-06
+2025-11-09 03:42:40,185 INFO:backtest.engine:Processing date: 2025-01-07
+2025-11-09 03:42:47,684 INFO:backtest.engine:Processing date: 2025-01-08
+2025-11-09 03:42:56,080 INFO:backtest.engine:Processing date: 2025-01-09
+2025-11-09 03:43:20,477 INFO:backtest.engine:Processing date: 2025-01-10
+2025-11-09 03:43:27,604 INFO:backtest.engine:Processing date: 2025-01-13
+2025-11-09 03:43:37,333 INFO:backtest.engine:Processing date: 2025-01-14
+2025-11-09 03:43:45,576 INFO:backtest.engine:Processing date: 2025-01-15
+2025-11-09 03:43:53,537 INFO:backtest.engine:Processing date: 2025-01-16
+2025-11-09 03:44:19,160 INFO:backtest.engine:Processing date: 2025-01-17
+2025-11-09 03:44:26,414 INFO:backtest.engine:Raw trades saved to strategies\short_straddle_delta_hedge\report\2025-11-09_034123\trades.csv
+2025-11-09 03:44:26,487 INFO:backtest.engine:Tradebook saved to strategies\short_straddle_delta_hedge\report\2025-11-09_034123\tradebook.csv
+2025-11-09 03:44:27,352 INFO:backtest.engine:Equity/drawdown plot saved to strategies\short_straddle_delta_hedge\report\2025-11-09_034123\equity_drawdown.html
+2025-11-09 03:44:27,392 INFO:backtest.engine:Report saved to strategies\short_straddle_delta_hedge\report\2025-11-09_034123\report.json
+2025-11-09 03:44:27,392 INFO:backtest.engine:Backtest Report:
+2025-11-09 03:44:27,392 INFO:backtest.engine:total_trades: 48
+2025-11-09 03:44:27,394 INFO:backtest.engine:profitable_trades: 4
+2025-11-09 03:44:27,394 INFO:backtest.engine:win_rate: 8.33
+2025-11-09 03:44:27,394 INFO:backtest.engine:total_pnl_gross: -575072.475
+2025-11-09 03:44:27,394 INFO:backtest.engine:total_charges: 8700.0
+2025-11-09 03:44:27,394 INFO:backtest.engine:total_pat: -583772.475
+2025-11-09 03:44:27,396 INFO:backtest.engine:initial_capital: 3700000.0
+2025-11-09 03:44:27,396 INFO:backtest.engine:return_on_initial_capital_gross_pct: -15.5425
+2025-11-09 03:44:27,396 INFO:backtest.engine:return_on_initial_capital_pat_pct: -15.7776
+2025-11-09 03:44:27,396 INFO:backtest.engine:max_drawdown: 575072.475
+2025-11-09 03:44:27,396 INFO:backtest.engine:max_drawdown_pct: 15.5425
+2025-11-09 03:44:27,396 INFO:backtest.engine:sharpe_ratio: -24.591
+INFO:backtest.engine:Backtest run directory: strategies\short_straddle_delta_hedge\report\2025-11-09_035157
+INFO:backtest.engine:Processing date: 2025-01-01
+INFO:backtest.engine:Processing date: 2025-01-02
+INFO:backtest.engine:Processing date: 2025-01-03
+INFO:backtest.engine:Processing date: 2025-01-06
+INFO:backtest.engine:Processing date: 2025-01-07
+INFO:backtest.engine:Processing date: 2025-01-08
+INFO:backtest.engine:Processing date: 2025-01-09
+INFO:backtest.engine:Processing date: 2025-01-10
+INFO:backtest.engine:Processing date: 2025-01-13
+INFO:backtest.engine:Processing date: 2025-01-14
+INFO:backtest.engine:Processing date: 2025-01-15
+INFO:backtest.engine:Processing date: 2025-01-16
+INFO:backtest.engine:Processing date: 2025-01-17
+INFO:backtest.engine:Processing date: 2025-01-20
+INFO:backtest.engine:Processing date: 2025-01-21
+INFO:backtest.engine:Processing date: 2025-01-22
+INFO:backtest.engine:Processing date: 2025-01-23
+INFO:backtest.engine:Processing date: 2025-01-24
+INFO:backtest.engine:Processing date: 2025-01-27
+INFO:backtest.engine:Processing date: 2025-01-28
+INFO:backtest.engine:Processing date: 2025-01-29
+INFO:backtest.engine:Processing date: 2025-01-30
+INFO:backtest.engine:Processing date: 2025-01-31
+INFO:backtest.engine:Processing date: 2025-02-03
+INFO:backtest.engine:Processing date: 2025-02-04
+INFO:backtest.engine:Processing date: 2025-02-05
+INFO:backtest.engine:Processing date: 2025-02-06
+INFO:backtest.engine:Processing date: 2025-02-07
+INFO:backtest.engine:Processing date: 2025-02-10
+INFO:backtest.engine:Processing date: 2025-02-11
+INFO:backtest.engine:Processing date: 2025-02-12
+INFO:backtest.engine:Processing date: 2025-02-13
+INFO:backtest.engine:Processing date: 2025-02-14
+INFO:backtest.engine:Processing date: 2025-02-17
+INFO:backtest.engine:Processing date: 2025-02-18
+INFO:backtest.engine:Processing date: 2025-02-19
+INFO:backtest.engine:Processing date: 2025-02-20
+INFO:backtest.engine:Processing date: 2025-02-21
+INFO:backtest.engine:Processing date: 2025-02-24
+INFO:backtest.engine:Processing date: 2025-02-25
+INFO:backtest.engine:Processing date: 2025-02-26
+INFO:backtest.engine:Processing date: 2025-02-27
+INFO:backtest.engine:Processing date: 2025-02-28
+INFO:backtest.engine:Processing date: 2025-03-03
+INFO:backtest.engine:Processing date: 2025-03-04
+INFO:backtest.engine:Processing date: 2025-03-05
+INFO:backtest.engine:Processing date: 2025-03-06
+INFO:backtest.engine:Processing date: 2025-03-07
+INFO:backtest.engine:Processing date: 2025-03-10
+INFO:backtest.engine:Processing date: 2025-03-11
+INFO:backtest.engine:Processing date: 2025-03-12
+INFO:backtest.engine:Processing date: 2025-03-13
+INFO:backtest.engine:Processing date: 2025-03-14
+INFO:backtest.engine:Processing date: 2025-03-17
+INFO:backtest.engine:Processing date: 2025-03-18
+INFO:backtest.engine:Processing date: 2025-03-19
+INFO:backtest.engine:Processing date: 2025-03-20
+INFO:backtest.engine:Processing date: 2025-03-21
+INFO:backtest.engine:Processing date: 2025-03-24
+INFO:backtest.engine:Processing date: 2025-03-25
+INFO:backtest.engine:Processing date: 2025-03-26
+INFO:backtest.engine:Processing date: 2025-03-27
+INFO:backtest.engine:Processing date: 2025-03-28
+INFO:backtest.engine:Processing date: 2025-03-31
+INFO:backtest.engine:Raw trades saved to strategies\short_straddle_delta_hedge\report\2025-11-09_035157\trades.csv
+INFO:backtest.engine:Tradebook saved to strategies\short_straddle_delta_hedge\report\2025-11-09_035157\tradebook.csv
+INFO:backtest.engine:Equity/drawdown plot saved to strategies\short_straddle_delta_hedge\report\2025-11-09_035157\equity_drawdown.html
+INFO:backtest.engine:Report saved to strategies\short_straddle_delta_hedge\report\2025-11-09_035157\report.json
+INFO:backtest.engine:Backtest Report:
+INFO:backtest.engine:total_trades: 253
+INFO:backtest.engine:profitable_trades: 23
+INFO:backtest.engine:win_rate: 9.09
+INFO:backtest.engine:total_pnl_gross: -1866698.85
+INFO:backtest.engine:total_charges: 46700.0
+INFO:backtest.engine:total_pat: -1913398.85
+INFO:backtest.engine:initial_capital: 3700000.0
+INFO:backtest.engine:return_on_initial_capital_gross_pct: -50.4513
+INFO:backtest.engine:return_on_initial_capital_pat_pct: -51.7135
+INFO:backtest.engine:max_drawdown: 1918938.375
+INFO:backtest.engine:max_drawdown_pct: 51.8632
+INFO:backtest.engine:sharpe_ratio: -19.828
+Running backtest from 2025-01-01 to 2025-03-31
+Strategy: short_straddle_delta_hedge
+Underlying: NIFTY
+Initial Capital: 3700000

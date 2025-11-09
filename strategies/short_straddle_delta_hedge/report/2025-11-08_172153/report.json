@@ -1,0 +1,11 @@
+{
+    "total_trades": 6,
+    "profitable_trades": 3,
+    "win_rate": 50.0,
+    "total_pnl": -10778.825,
+    "avg_trade_pnl": -1796.471,
+    "max_profit": 24016.26,
+    "max_loss": -24309.235,
+    "open_positions": [],
+    "profit_factor": 0.767
+}
